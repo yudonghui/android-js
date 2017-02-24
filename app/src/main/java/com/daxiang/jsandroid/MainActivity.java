@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
             webView.goBack(); //goBack()表示返回WebView的上一页面
             this.finish();
             return true;
+
         }
         return false;
     }
