@@ -59,7 +59,6 @@ public class MainActivity extends AppCompatActivity {
                 public void run() {
                     webView.loadUrl("javascript:show('" + info + "')");
                 }
-
             });
         }
 
